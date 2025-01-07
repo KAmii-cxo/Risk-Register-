@@ -56,4 +56,4 @@ A **Risk Matrix** helps visualize risks based on their likelihood and impact, al
 - **Yellow**: Low priority – monitor.
 - **Green**: Very low risk – no immediate action needed.
 
-Google Portfolio Risk Register Project [here]((https://drive.google.com/drive/folders/1X1sxIjomXqSNKRCWiz9T4VbDuxJRx1gf?usp=drive_link))
+Google Portfolio Risk Register Project [here](https://drive.google.com/drive/folders/1X1sxIjomXqSNKRCWiz9T4VbDuxJRx1gf?usp=drive_link)
